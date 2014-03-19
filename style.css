@@ -1,0 +1,47 @@
+/*
+Theme Name: PGCLS
+Theme URI: http://www.binaryforest.com
+Author: James Potter
+Author URI: http://www.binaryforest.com
+Description: Perranporth Golf Club Ladies Section
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: golf
+Text Domain: pgcls
+
+*/
+
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body { 
+	text-align: center;
+	padding-top: 70px;
+
+}
+
+footer {
+	background-color: black;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+	height: 50px;
+	width: 100%;
+}
+
+.panel-body {
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.main-body {
+	margin: 0 0 50px;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+ }
+
